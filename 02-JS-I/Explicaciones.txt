@@ -1,5 +1,0 @@
-Variables: Son espacios reservados en la memoria RAM del PC para guardar algun dato que pueda ser usado en el futuro
-Strings: Cadenas de caracteres que pueden contener letras, espacios, números y caracteres especiales.
-Funciones:  Son conjuntos de codigo reutilizable para realizar una tarea una unica vez o varias veces.
-Declaraciones if: Estructura logica que según una expresion cierta o falsa puede desviar la ejecución del programa
-Valores booleanos (true, false): Son valores logicos que representan realidad (1) o falsedad (0)
