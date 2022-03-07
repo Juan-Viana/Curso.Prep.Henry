@@ -1,0 +1,5 @@
+Ciclo for: Este ciclo se usa solamente cuando se conoce la cantidad de iteraciones que se van a realizar porque este valor es necesario para la declaración
+&&: operador logico AND: Permite comparar de izquierda a derecha y verifica si ambos valores booleanos que se estan comparando son verdaderos para devolver true o false si ambos valores son falsas
+|| Operador logico OR: Funciona similar al operador AND pero el operador OR devuelve true si al menos uno de los dos operadores es true y false cuando ambos valores comparados son false.
+! Operador NOT: Niega el valor booleano a la derecha, si el resultado es true entonces se negara y sera false y dara false si el valor es true.
+Este operador nos permite invertir o evaluar logicamente lo contrario a un valor booleano.
